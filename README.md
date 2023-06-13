@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parth Joshi
-- 👀 I’m interested in development.
-- 🌱 I’m currently a student and am actively learning cybersecurity.
-- 💞️ I’m looking to collaborate on projects in java, c++.
+- 👀 I’m interested in development, collaborating and cocontributing in open source projects.
+- 🌱 I’m currently a student and am actively learning about cybersecurity and am developing interest in big data.
+- 💞️ I’m looking to collaborate on projects in java, c++, python.
 - 📫 You can reach me through email, joshiparth2002@gmail.com
 
 <!---
